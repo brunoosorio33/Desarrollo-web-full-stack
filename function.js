@@ -8,11 +8,11 @@ console.log(darBienvenida("Bienvenido a la tienda de mascotas!"));
 
 const calcularTotal = (price, amount) => price * amount * 1.21;
 
-console.log(calcularTotal(10, 3));
+console.log(calcularTotal(20, 7));
 
 // Ejercicio 3
 
-const namePet = (name) => "Mascota" + name;
+const namePet = name => "Mascota" + name;
 
 console.log(namePet("Luna"));
 
