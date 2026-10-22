@@ -31,7 +31,7 @@ const foundProfile = async () => {
         console.log("Nombre: " + data.name);
 
     } catch (error) {
-        console.log(error);
+        console.log("Error al encontrar el usuario");
     }
 };
 
