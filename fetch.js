@@ -1,7 +1,7 @@
 // Pokemon
 
 
-const obtainPokemon = async () => {
+/* const obtainPokemon = async () => {
     try {
         // Pedimos los datos y esperamos
         const response = await fetch("https://pokeapi.com/api/v2/pokemon/pikachu")
@@ -13,9 +13,9 @@ const obtainPokemon = async () => {
     } catch(eror){
         console.log("Error al conectar Api", error)
     }
-}
+} 
 
-obtainPokemon()
+obtainPokemon() */
 
 // Ejercicio 1
 
